@@ -1,0 +1,35 @@
+.page-head-shape1 {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    width: max-content;
+    position: relative;
+    overflow: hidden;
+    margin: auto;
+}
+.page-head-shape1 h3 {
+    color: #333;
+    font-size: 50px;
+    text-align: center;
+}
+.page-head-shape1 .line {
+    width: 300px;
+    border-bottom: 5px solid #333;
+    position: relative;
+    padding-top: 20px;
+}
+.page-head-shape1 .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 5px solid #333;
+    position: absolute;
+    top: 0;
+    left: 40%;
+}
+
+/*
+dashboard header style
+==================================
+*/
+
